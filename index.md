@@ -4,14 +4,17 @@
 > One word:
 The correlation between users and items is not considered in fair recommendation model. Removing the sensitive attributes of the user and user-centric graph embedding, then achieving fairness.
 ---
+
 \[**AAAI2020-LR-GCCF**\] Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach \[[pdf](https://arxiv.org/abs/2001.10167)\] \[[code](https://github.com/newlei/FairGo)\]
 
 > One word: Focusing on over-smoothing problem and  training difficulty problem. Removing non-linear activations and designing residual network structure to solve problem.
 ---
+
 \[**TKDE2019-HASC**\] A Hierarchical Attention Model for Social Contextual Image Recommendation \[[pdf](https://ieeexplore.ieee.org/document/8700213) [arxiv](https://arxiv.org/abs/1806.00723)\] \[[code](https://github.com/newlei/HASC)\]
 
 > One word: Focuing on fuseing various kinds of side information(e.g., image visual representation, social network). We develop a hierarchical attention model for social contextual image recommendation.
 ---
+
 ## Dataset
 ### Flickr-collect and organize by myself
 In TKDE2019-HASC, we collected and published Flickr data with rich information.
