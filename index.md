@@ -1,5 +1,13 @@
 ## Paper
- 
+\[WWW2021-FairGo\] Learning Fair Representations for Recommendation: A Graph-based Perspective \[[pdf](https://arxiv.org/abs/2102.09140)\] \[[code](https://github.com/newlei/FairGo)\] 
+
+\[AAAI2020-LR-GCCF\] Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach \[[pdf](https://arxiv.org/abs/2001.10167)\] \[[code](https://github.com/newlei/FairGo)\]
+
+\[TKDE2019-HASC\] A Hierarchical Attention Model for Social Contextual Image Recommendation \[[pdf](https://ieeexplore.ieee.org/document/8700213) [arxiv](https://arxiv.org/abs/1806.00723)\] \[[code](https://github.com/newlei/HASC)\]
+
+## Dataset
+
+
 
 <!-- ## Welcome to GitHub Pages
 
