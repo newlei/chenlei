@@ -5,7 +5,7 @@
 The correlation between users and items is not considered in fair recommendation model. Removing the sensitive attributes of the user and user-centric graph embedding, then achieving fairness.
 
 
-\[**AAAI2020-LR-GCCF**\] Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach \[[pdf](https://arxiv.org/abs/2001.10167)\] \[[code](https://github.com/newlei/FairGo)\]
+\[**AAAI2020-LR-GCCF**\] Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach \[[pdf](https://arxiv.org/abs/2001.10167)\] \[[code](https://github.com/newlei/LR-GCCF)\]
 
 > One word: Focusing on over-smoothing problem and  training difficulty problem. Removing non-linear activations and designing residual network structure to solve problem.
 
